@@ -2,9 +2,7 @@
 
 ## Programa del Curso
 
-### INTRODUCCION: motivación, contexto histórico, controversias
-
-### PRIMERA PARTE
+### Primera Parte
 - Modelos basados en energía (energy based models)‏
 - Redes de memoria asociativa (Modelo de Hopfield)‏
 - Máquinas de Boltzmann
@@ -12,7 +10,7 @@
 - Deep Belief Networks
 - Máquinas de Boltzmann Profundas
 
-### SEGUNDA PARTE
+### Segunda Parte
 - Redes convolucionales
 - Autoencoders
 - Redes profundas basadas en autoencoders
